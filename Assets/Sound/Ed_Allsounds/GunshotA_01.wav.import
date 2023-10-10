@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/GunshotA_01.wav-06e6039aecc53321901e4806f17eea1e.sample"
+
+[deps]
+
+source_file="res://Assets/Sound/Ed_Allsounds/GunshotA_01.wav"
+dest_files=[ "res://.import/GunshotA_01.wav-06e6039aecc53321901e4806f17eea1e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

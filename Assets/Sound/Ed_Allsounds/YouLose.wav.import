@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/YouLose.wav-d6fb624b1748da2d35432b154f694319.sample"
+
+[deps]
+
+source_file="res://Assets/Sound/Ed_Allsounds/YouLose.wav"
+dest_files=[ "res://.import/YouLose.wav-d6fb624b1748da2d35432b154f694319.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

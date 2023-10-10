@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Dice_Roll_04.wav-223f72a7834a5e8e86b269707f5c4144.sample"
+
+[deps]
+
+source_file="res://Assets/Sound/Ed_Allsounds/Dice_Roll_04.wav"
+dest_files=[ "res://.import/Dice_Roll_04.wav-223f72a7834a5e8e86b269707f5c4144.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

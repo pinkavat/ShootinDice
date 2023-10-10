@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/GunshotB_01.wav-1475dde1e30aab17f69ddad62e8523b7.sample"
+
+[deps]
+
+source_file="res://Assets/Sound/Ed_Allsounds/GunshotB_01.wav"
+dest_files=[ "res://.import/GunshotB_01.wav-1475dde1e30aab17f69ddad62e8523b7.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

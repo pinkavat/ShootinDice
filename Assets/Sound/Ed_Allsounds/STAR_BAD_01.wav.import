@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/STAR_BAD_01.wav-c1a95ca9766aef1c2e70648f2827676e.sample"
+
+[deps]
+
+source_file="res://Assets/Sound/Ed_Allsounds/STAR_BAD_01.wav"
+dest_files=[ "res://.import/STAR_BAD_01.wav-c1a95ca9766aef1c2e70648f2827676e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

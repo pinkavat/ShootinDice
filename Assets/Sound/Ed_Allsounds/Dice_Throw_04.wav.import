@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Dice_Throw_04.wav-40564ae9b5d505aca58d6464fed23769.sample"
+
+[deps]
+
+source_file="res://Assets/Sound/Ed_Allsounds/Dice_Throw_04.wav"
+dest_files=[ "res://.import/Dice_Throw_04.wav-40564ae9b5d505aca58d6464fed23769.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

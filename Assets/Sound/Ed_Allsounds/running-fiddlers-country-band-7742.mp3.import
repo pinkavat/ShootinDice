@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/running-fiddlers-country-band-7742.mp3-0ccbb614d34f9f6a47b7986b343920e8.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sound/Ed_Allsounds/running-fiddlers-country-band-7742.mp3"
+dest_files=[ "res://.import/running-fiddlers-country-band-7742.mp3-0ccbb614d34f9f6a47b7986b343920e8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

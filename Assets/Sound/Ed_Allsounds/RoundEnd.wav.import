@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/RoundEnd.wav-7f94774d8d4340ce6c48c976f278d826.sample"
+
+[deps]
+
+source_file="res://Assets/Sound/Ed_Allsounds/RoundEnd.wav"
+dest_files=[ "res://.import/RoundEnd.wav-7f94774d8d4340ce6c48c976f278d826.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

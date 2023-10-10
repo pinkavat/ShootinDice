@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Dice_ShotAway_03.wav-35c05ac44a474e1cb6fe495ccc8b2bc4.sample"
+
+[deps]
+
+source_file="res://Assets/Sound/Ed_Allsounds/Dice_ShotAway_03.wav"
+dest_files=[ "res://.import/Dice_ShotAway_03.wav-35c05ac44a474e1cb6fe495ccc8b2bc4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

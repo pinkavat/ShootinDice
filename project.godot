@@ -1,0 +1,51 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+_global_script_classes=[ {
+"base": "Node2D",
+"class": "ScoreDisplay",
+"language": "GDScript",
+"path": "res://ScoreDisplay.gd"
+}, {
+"base": "RigidBody",
+"class": "TargetDice",
+"language": "GDScript",
+"path": "res://TargetDice.gd"
+}, {
+"base": "Sprite",
+"class": "VictoryStar",
+"language": "GDScript",
+"path": "res://VictoryStar.gd"
+} ]
+_global_script_class_icons={
+"ScoreDisplay": "",
+"TargetDice": "",
+"VictoryStar": ""
+}
+
+[application]
+
+config/name="DiceSniper"
+run/main_scene="res://MenuScreen.tscn"
+config/icon="res://icon.png"
+
+[display]
+
+mouse_cursor/custom_image="res://Assets/crosshairs.png"
+mouse_cursor/custom_image_hotspot=Vector2( 40, 40 )
+
+[physics]
+
+common/enable_pause_aware_picking=true
+
+[rendering]
+
+quality/driver/driver_name="GLES2"
+environment/default_environment="res://default_env.tres"

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/STAR_GOOD_01.wav-b4d0b0fa06c5aa0fd4bf3550217cbd0d.sample"
+
+[deps]
+
+source_file="res://Assets/Sound/Ed_Allsounds/STAR_GOOD_01.wav"
+dest_files=[ "res://.import/STAR_GOOD_01.wav-b4d0b0fa06c5aa0fd4bf3550217cbd0d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

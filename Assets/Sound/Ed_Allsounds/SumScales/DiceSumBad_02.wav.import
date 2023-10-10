@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/DiceSumBad_02.wav-a061ae2f8b5c6206db95144fa5d6ba47.sample"
+
+[deps]
+
+source_file="res://Assets/Sound/Ed_Allsounds/SumScales/DiceSumBad_02.wav"
+dest_files=[ "res://.import/DiceSumBad_02.wav-a061ae2f8b5c6206db95144fa5d6ba47.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
